@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=awu0626&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!-- 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=awu0626&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
