@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/awu0626/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 <!-- 
