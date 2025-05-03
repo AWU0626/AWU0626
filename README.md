@@ -1,6 +1,4 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent)
-![](https://raw.githubusercontent.com/awu0626/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/awu0626/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!-- 
