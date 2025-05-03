@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/awu0626/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[](https://raw.githubusercontent.com/awu0626/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!-- 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=awu0626&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
