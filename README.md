@@ -1,5 +1,5 @@
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent)-->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent)
 
 
 <!-- 
