@@ -1,7 +1,7 @@
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent)-->
 <details>
   <summary>GitHub Stats</summary>
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show_icons=true&hide_border=true&bg_color=00000000"/>
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show_icons=true&hide_border=true&theme=transparent"/>
 </details>
 
 
