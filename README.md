@@ -1,5 +1,6 @@
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent)-->
-![My GitHub Stats](https://github-readme-stats-i0j5iwz56-zhao-zhens-projects.vercel.app/api?username=awu0626&commits_year=2025&show_icons=true&theme=transparent&count_private=true)
+[![My GitHub stats]([https://github-readme-stats.vercel.app/api?username=awu0626](https://github-readme-stats-i0j5iwz56-zhao-zhens-projects.vercel.app))](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
