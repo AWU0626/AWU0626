@@ -1,5 +1,8 @@
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=awu0626&show_icons=true&theme=transparent)-->
-[![My GitHub stats]([https://github-readme-stats.vercel.app/api?username=awu0626](https://github-readme-stats-i0j5iwz56-zhao-zhens-projects.vercel.app))](https://github.com/awu0626/github-readme-stats)
+<details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show_icons=true&hide_border=true"/>
+</details>
 
 
 
