@@ -17,7 +17,7 @@ I've built applications across platforms and domains covering web & mobile apps,
      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>        
      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>  
      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
    </td>                                  
  </tr>         
  <tr>                                     
@@ -39,7 +39,7 @@ I've built applications across platforms and domains covering web & mobile apps,
    </td>                                   
  </tr>                                                                                                                                                                                                   
  <tr>                                   
-   <td><strong>Backend & Data</strong></td>
+   <td><strong>Backend</strong></td>
    <td>
      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
