@@ -1,8 +1,7 @@
 # Hi, I'm Aaron Wu 👋                     
    
   Sofware developer with experience building entire stacks — from web to mobile, UI to backend microservices, AI and ML experiments from scratch.                                     
-  ---                                            
-                  
+  ---                
   ## GitHub Stats                  
   <p>
     <img
@@ -21,6 +20,7 @@
   </p>
 
  <br clear="left"/>
+ 
   ---
   ## Tech Stack                                 
    
