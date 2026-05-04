@@ -73,6 +73,16 @@ I've built applications across platforms and domains covering web & mobile apps,
      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white"/>      
    </td>                                
  </tr>
+
+ <tr>
+  <td><strong>Testing & Automation</strong></td>                         
+  <td>                                 
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>  
+  </td>
+ </tr>
 </table>  
 <br clear="left"/>     
 
