@@ -3,11 +3,7 @@
   Sofware developer with experience building entire stacks — from web to mobile, UI to backend microservices, AI and ML experiments from scratch.                                     
   ---                                            
                   
-  ## GitHub Stats                              
-   
- <details>
-  <summary>GitHub Stats</summary>
-
+  ## GitHub Stats                  
   <p>
     <img
       align="left"
@@ -23,7 +19,6 @@
       src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=8&size_weight=0.5&count_weight=0.5"
     />
   </p>
-</details>
 
   ---
   ## Tech Stack                                 
