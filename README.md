@@ -5,7 +5,7 @@
     <img
       align="left"
       alt="My GitHub Stats"
-      src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"
     />
   </p>
 
