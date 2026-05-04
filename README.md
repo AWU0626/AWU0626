@@ -1,6 +1,25 @@
 # Hi, I'm Aaron Wu 👋                                                                                                                                                                                              
 Sofware developer with experience building entire stacks — from web to mobile, UI to backend microservices, AI and ML experiments from scratch.   
-                
+
+---              
+## GitHub Stats                                                                                                                                                                                      
+<p>                                      
+  <img                                  
+    align="left"                       
+    alt="My GitHub Stats"
+    src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cou
+nt_private=true"                            
+  />
+</p> 
+
+<p>
+  <img
+    align="left"                         
+    alt="My Top Languages"
+    src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5"          
+  />                               
+</p>
+
 ---              
 ## Tech Stack      
 
@@ -51,22 +70,4 @@ Sofware developer with experience building entire stacks — from web to mobile,
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
     </td>                                  
   </tr>         
-</table>                                                                                                                                                                         
----              
-## GitHub Stats                                                                                                                                                                                      
-<p>                                      
-  <img                                  
-    align="left"                       
-    alt="My GitHub Stats"
-    src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=awu0626&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cou
-nt_private=true"                            
-  />
-</p> 
-
-<p>
-  <img
-    align="left"                         
-    alt="My Top Languages"
-    src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5"          
-  />                               
-</p>
+</table>                                                                                                                                                                        
