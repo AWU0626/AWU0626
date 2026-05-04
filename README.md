@@ -20,7 +20,7 @@
     />
   </p>
 
-
+ <br clear="left"/>
   ---
   ## Tech Stack                                 
    
