@@ -56,7 +56,8 @@ I've built applications across platforms and domains covering web & mobile apps,
      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>   
      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>  
      <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
-     <img src="https://img.shields.io/badge/RevenueCat-F50057?style=flat&logo=revenuecat&logoColor=white"/> 
+     <img src="https://img.shields.io/badge/RevenueCat-F50057?style=flat&logo=revenuecat&logoColor=white"/>
+     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>  
    </td>                                
  </tr>
 
