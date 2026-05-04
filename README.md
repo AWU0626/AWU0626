@@ -67,7 +67,6 @@
      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>        
      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>  
      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>  
-     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>   
      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white"/>      
    </td>                                
  </tr>
