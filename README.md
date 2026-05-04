@@ -1,7 +1,9 @@
-# Hi, I'm Aaron Wu 👋                     
 
-<p>Sofware developer with experience building entire stacks — from web to mobile, UI to backend microservices, AI and ML experiments from scratch.</p>   
-<br clear="left"/>
+# Hey, I'm Aaron!    
+
+I graduated with M.Eng in CS and B.Sc. (BAS) in CS & Mathematical Economics.
+I've built applications across platforms and domains covering web & mobile apps, UI, backend microservices, data analytics, and AI/ML pipelines
+<!-- <br clear="right"/> -->
 
 ---
 ## Tech Stack                                 
