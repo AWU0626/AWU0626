@@ -100,7 +100,7 @@ I've built applications across platforms and domains covering web & mobile apps,
  <img
    align="left"
    alt="My Top Languages"
-   src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=10&size_weight=0.6&count_weight=0.5&v=2"
+   src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=10&size_weight=0.8&count_weight=0.2&v=2"
  />
 </p>
 
