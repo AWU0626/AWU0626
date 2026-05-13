@@ -92,7 +92,7 @@ I've built applications across platforms and domains covering web & mobile apps,
  <img
    align="left"
    alt="My GitHub Stats"
-   src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=AWU0626&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"
+   src="https://github-readme-stats-blond-nine-93.vercel.app/api?username=AWU0626&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&v=2"
  />
 </p>
 
@@ -100,7 +100,7 @@ I've built applications across platforms and domains covering web & mobile apps,
  <img
    align="left"
    alt="My Top Languages"
-   src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=8&size_weight=0.5&count_weight=0.5"
+   src="https://github-readme-stats-blond-nine-93.vercel.app/api/top-langs/?username=awu0626&layout=compact&hide_border=true&theme=transparent&langs_count=8&size_weight=0.5&count_weight=0.5&v=2"
  />
 </p>
 
